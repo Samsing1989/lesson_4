@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,500&display=swap');
+
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/Lato-Regular.woff2") format("woff2"), url("../fonts/lato/Lato-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/Lato-Bold.woff2") format("woff2"), url("../fonts/lato/Lato-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/Lato-Black.woff2") format("woff2"), url("../fonts/lato/Lato-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit.woff2") format("woff2"), url("../fonts/larsseit/Larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-Medium.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-Bold.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+a {
+	color: rgb(196, 173, 42);
+	font-family: "Roboto";
+	font-weight: 900;
+}
+li {
+	color: red;
+	font-family: "Roboto";
+	font-style: italic;
+	font-weight: 400;
+}
+p {
+	color: rgb(17, 17, 121);
+	font-family: "Larsseit";
+	font-weight: 500;
+}
+.text {
+	font-family: "Lato";
+	font-weight: 900;
+	color: black;
+}
+.footer a {
+	color: blueviolet;
+}
+h2 {
+	font-family: "Lato";
+	font-weight: 900;
+	color: green;
+}
+ul.film-serials li {
+   color: rgb(71, 238, 20);
+   font-family: "Roboto";
+   font-weight: 700;
+   font-style: italic;
+}
+#books,
+#kurs,
+#films {
+	font-family: "Lato";
+	font-weight: 700;
+	color: blue;
+}
+#media,
+#kanale {
+	font-family: "Larsseit";
+	font-weight: 700;
+	color: rgb(14, 219, 226);
+}
+.zmist{
+	color: rgb(99, 129, 129);
+	font-family: "Roboto";
+	font-weight: 900;
+}
+.text-it {
+	font-family: "Larsseit";
+	font-weight: 500;
+	color: chocolate;
+}
+address,
+span {
+	font-family: "Lato";
+	font-weight: 900;
+	color: blue;
+}
+b{
+	color: black;
+	font-family: "Roboto";
+	font-weight: 700;
+}
